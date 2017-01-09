@@ -1,2 +1,2 @@
-# travel-planner
+# Travel planner
 travel planner android app
